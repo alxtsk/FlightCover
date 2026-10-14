@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Foundry build artifacts
+contracts/out/
+contracts/cache/
+contracts/broadcast/
+
+# Environment files (keep examples)
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+*.sw?
